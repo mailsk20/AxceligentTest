@@ -60,7 +60,7 @@ namespace AxceligentTest
             Console.WriteLine("answer1: ");
             Console.WriteLine("answer5: ");
 
-            Console.WriteLine("\n\ntype 1: import Car from 'app.js';");
+            Console.WriteLine("\n\ntype 2: import Car from 'app.js';");
             Console.WriteLine("answer2: ");
             Console.WriteLine("answer4: ");
 
